@@ -10,7 +10,7 @@ class MyApp extends JFrame {
     int WINDOW_WIDTH = 600;
     int WINDOW_HEIGHT = 600;
     String background_image_path;
-    String animation_images_path = "frames/";
+    String animation_images_path = "C:\\Users\\mirea\\IdeaProjects\\GuSeRt\\src\\ru\\mirea\\task5\\frames";
     int method;
 
     // Init
